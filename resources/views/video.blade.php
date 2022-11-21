@@ -1,3 +1,5 @@
 <video controls preload="auto" data-setup='{"fluid": true}' class="video-js">
-    <source src="https://stream1.aryzap.com/c8d6ae82971bfff2c496386779e210cd/6371f56a/v1/0182f8a158d80b8ed5aa6eddaece/0182f8b509730b8ed5aa6eddaed1/main.m3u8" type="application/x-mpegURL">
+    <source src="https://7rgnwbg2npl8-hls-push.5centscdn.com/PROMO%202%20ICC%20MENS%20T20%20WC%202022_OCT13_WEB.mp4/playlist.m3u8" type="application/x-mpegURL">
 </video>
+
+<?...https://7rgnwbg2npl8-hls-push.5centscdn.com/PROMO%202%20ICC%20MENS%20T20%20WC%202022_OCT13_WEB.mp4/playlist.m3u8?>
